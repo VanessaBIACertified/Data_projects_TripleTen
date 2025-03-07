@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Airbnb](Airbnb_README.md)| The project task was to analyze the rental market to find out which property types to invest in. |
+| 1 | [Music Streaming Analysis](https://github.com/VanessaBIACertified/Data_projects_TripleTen/tree/Data-Analysis-Projects/Music%20Streaming%20Analysis)| The project task was to analyze the rental market to find out which property types to invest in. |
 | 2 | [Data Collection and SQL] | The project task was to find patterns to understand passenger preferences and the impact of external factors on rides.|
 | 3 | [E-commerce] | The project task was to analyze raw transaction logs to understanding how well the website is converting product page views into purchases. |
 | 4 | [Data Visualization with Tableau] | The project task was to review the superstore’s operations and increase it's profitability to avoid bankruptcy. |
